@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey, I'm Samuel 👋
 
-<!--
-**samkeller/samkeller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tech lead & software engineer from Lyon, France.
 
-Here are some ideas to get you started:
+I enjoy building things, designing clean architectures, and figuring out how stuff works. By day, it's mostly Java, React & TypeScript. On the side, I experiment with LLMs, python, coding agents, and random ideas that turn into actual projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A few things I'm tinkering with:
+- 🦫 [groundhog.cool](https://github.com/samkeller/groundhog.cool) — autonomous groundhogs, procedural worlds & emergent behaviour.
+- 🧾 [comptes-chateau](https://github.com/samkeller/comptes-chateau) — a personal accounting app, built from scratch.
+
+Always curious, occasionally overengineering things just for fun.
+
+[LinkedIn](https://www.linkedin.com/in/uelkeller)
