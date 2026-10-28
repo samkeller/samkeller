@@ -1,6 +1,4 @@
-# Hey, I'm Samuel 👋
-
-Tech lead & software engineer from Lyon, France.
+Hi, i'm Sam !
 
 I enjoy building things, designing clean architectures, and figuring out how stuff works. By day, it's mostly Java, React & TypeScript. On the side, I experiment with LLMs, python, coding agents, and random ideas that turn into actual projects.
 
