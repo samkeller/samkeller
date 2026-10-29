@@ -1,7 +1,3 @@
-
-
-<img src="images/screwdriver.gif" alt="Boomerang screwdriver pose" width="50"/>
-
 Hi, i'm Sam !
 
 
